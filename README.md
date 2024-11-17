@@ -1,8 +1,9 @@
 # KIM KYENG HOON
 ### Soongsil University
-
-<!-- ![ouvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouvir&show_icons=true&theme=radical) -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kilhyunii)](https://solved.ac/kilhyunii/)
+<div>
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kilhyunii" height=180>
+ <img src="https://github-readme-stats.vercel.app/api?username=ouvir&show_icons=true" height=180>
+</div>
 
 # 💪Skills
 ### Platforms & Languages
@@ -27,9 +28,3 @@
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:kilhyunii@naver.com)
 
-
-# ⭐Total-stats
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouvir&layout=compact" height="200">
- <img src="https://github-readme-stats.vercel.app/api?username=ouvir&show_icons=true" height="200">
-</div>
