@@ -28,3 +28,5 @@
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:kilhyunii@naver.com)
 
+### more details
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://zany-snowstorm-436.notion.site/Portfolio-0e2253cd2709484e904c1605f4aac961)
