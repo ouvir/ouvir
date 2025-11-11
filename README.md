@@ -38,7 +38,7 @@ GPA **4.13 / 4.5** (Credits: 134 / 133)
 Focused on artificial intelligence, software engineering, and system architecture.
 
 
-# 💪Skills
+## 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -55,7 +55,7 @@ Focused on artificial intelligence, software engineering, and system architectur
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:kilhyunii@naver.com)
 
 ### more details
